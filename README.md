@@ -8,3 +8,7 @@ We have use two Machine Learning model and each of them give different accuracy
 
 
 We have used scikit-learn,numpy and pandas.
+
+Two images are also included Describing the Accuracy score,Confusion Matrix, Classification Report
+1.)NB.png
+2.)SVC.png
