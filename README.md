@@ -1,4 +1,6 @@
 # Movie-Review-using-text-classification
+Detects review type of movies either positive or negative.
+
 
 This is a Movie Review classification problem in which review can be either positive or negative or we can also say that this problem is a binary classification problem.
 
